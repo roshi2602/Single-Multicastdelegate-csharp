@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\bin\Debug\SingleCastDelegate.exe.config
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\bin\Debug\SingleCastDelegate.exe
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\bin\Debug\SingleCastDelegate.pdb
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\bin\Debug\ClassLibrary1.dll
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\bin\Debug\ClassLibrary1.pdb
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\obj\Debug\SingleCastDelegate.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\obj\Debug\SingleCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\obj\Debug\SingleCastDelegate.csproj.CopyComplete
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\obj\Debug\SingleCastDelegate.exe
+C:\Users\lenovo\source\repos\c shap delegates\SingleCastDelegate\obj\Debug\SingleCastDelegate.pdb
